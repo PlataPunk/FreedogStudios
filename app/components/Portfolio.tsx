@@ -99,7 +99,7 @@ export default function Portfolio() {
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.2 }}
                     className="text-textMuted text-center max-w-2xl mx-auto mb-16" >
-                    No solo proyectos. Arquitecturas diseñadas para resolver problemas reales.
+                    Arquitecturas diseñadas para resolver problemas reales.
                 </motion.p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
