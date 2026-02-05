@@ -1,12 +1,11 @@
-import { Instagram, Facebook, Twitter, Youtube, Linkedin, Mail } from 'lucide-react';
+import { Instagram, Facebook, Youtube, Linkedin, Mail } from 'lucide-react';
 import Image from "next/image";
 
 const socialLinks = [
-    { icon: Instagram, label: 'Instagram', href: '#' },
-    { icon: Facebook, label: 'Facebook', href: '#' },
-    { icon: Twitter, label: 'X', href: '#' },
-    { icon: Youtube, label: 'YouTube', href: '#' },
-    { icon: Linkedin, label: 'LinkedIn', href: '#' },
+    { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/enrique-freedogstudios/' },
+    { icon: Instagram, label: 'Instagram', href: 'https://www.instagram.com/freedogstudios/' },
+    { icon: Facebook, label: 'Facebook', href: 'https://www.facebook.com/freedogstudios' },
+    { icon: Youtube, label: 'YouTube', href: 'https://www.youtube.com/@Freedogstudios' },
 ];
 
 export default function Footer() {
