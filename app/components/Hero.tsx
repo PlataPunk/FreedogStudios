@@ -36,12 +36,11 @@ export default function Hero() {
                             animate="visible">
                     <motion.h1 variants={itemVariants}
                                className="text-4xl md:text-6xl font-bold text-bg-main mb-6 tracking-tight leading-[1.1]">
-                        Ingeniería de software para
-                        <span className="block text-secondary mt-2">startups y empresas scale-up.</span>
+                        Creamos aplicaciones y sistemas empresariales a medida.
                     </motion.h1>
                     <motion.p variants={itemVariants}
                         className="text-text-muted text-lg md:text-xl max-w-3xl mx-auto mb-12 leading-relaxed font-light" >
-                        Diseñamos y construimos integraciones de pago de alta disponibilidad y sistemas transaccionales para empresas que exigen <span className="text-white font-medium">precisión absoluta.</span>
+                        Integramos pagos, CRM y procesos internos para que tu información esté organizada y tu negocio opere con mayor control y precisión absoluta.
                     </motion.p>
 
                     <motion.div variants={itemVariants}
