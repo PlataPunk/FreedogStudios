@@ -36,7 +36,7 @@ export default function Hero() {
                             animate="visible">
                     <motion.h1 variants={itemVariants}
                                className="text-4xl md:text-6xl font-bold text-bg-main mb-6 tracking-tight leading-[1.1]">
-                        Creamos aplicaciones y sistemas empresariales a medida.
+                        Creamos aplicaciones y sistemas empresariales a medida
                     </motion.h1>
                     <motion.p variants={itemVariants}
                         className="text-text-muted text-lg md:text-xl max-w-3xl mx-auto mb-12 leading-relaxed font-light" >
