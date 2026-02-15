@@ -34,10 +34,10 @@ const services = [
     {
         id: 'cloud',
         icon: Cloud,
-        title: 'Infraestructura Cloud & Sistemas Embebidos',
-        focus: 'La parte "hard" de la tecnología.',
-        copy: 'Construimos la base sólida que tu software necesita. Expertos en despliegues sobre AWS y desarrollo de sistemas embebidos mediante protocolos MQTT para proyectos de Internet de las Cosas.',
-        keywords: ['AWS', 'Docker', 'MQTT', 'Arquitectura de Microservicios'],
+        title: 'Infraestructura Cloud',
+        focus: 'Para escalar tus archivos y documentos deben estar organizados',
+        copy: 'Construimos la base sólida que tu software necesita. Expertos en despliegues sobre AWS y desarrollo de sistemas que almacenan y gestionan información.',
+        keywords: ['AWS', 'Docker', 'Drive'],
         badge: null,
     },
 ];
