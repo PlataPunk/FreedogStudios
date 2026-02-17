@@ -1,22 +1,22 @@
 "use client";
 
 import { motion, Variants } from "framer-motion";
-import { CreditCard, MessageSquare, Brain, Cloud } from 'lucide-react';
+import { SmartphoneCharging, MessageSquare, Brain, Cloud } from 'lucide-react';
 
 const services = [
     {
-        id: 'fintech',
-        icon: CreditCard,
-        title: 'Ecosistemas de Pago & Integraciones PSP',
-        focus: 'Más allá de un botón de pago. Hablamos de la arquitectura detrás.',
-        copy: 'Implementamos infraestructuras de pago robustas y escalables. Desde la orquestación de múltiples PSPs hasta la creación de dashboards unificados para el control financiero en tiempo real.',
-        keywords: ['Stripe', 'Openpay', 'Clip', 'Reconciliación Bancaria', 'Ledgers'],
+        id: 'mobile-apps',
+        icon: SmartphoneCharging,
+        title: 'Desarrollo de Apps Móviles (iOS & Android)',
+        focus: 'Tu negocio en la palma de la mano de tus clientes.',
+        copy: 'Creamos aplicaciones nativas e híbridas que no solo se ven bien, sino que ejecutan. Desde herramientas de operación en campo hasta plataformas de usuario final sincronizadas con tu base de datos en tiempo real.',
+        keywords: ['React Native', 'UX/UI Operativa', 'Android', 'iOS'],
         badge: 'Powered by Freedoglabs',
     },
     {
         id: 'conversacional',
         icon: MessageSquare,
-        title: 'Automatización Transaccional & Bots',
+        title: 'IA Aplicada a Bots',
         focus: 'No son bots de "Preguntas Frecuentes". Son bots que venden y cobran.',
         copy: 'Diseñamos flujos conversacionales inteligentes que cierran ventas. Integramos lógica transaccional directamente en WhatsApp y canales sociales, conectando tu inventario y pasarelas de pago con el usuario final.',
         keywords: ['WhatsApp Business API', 'Flujos de Pago', 'CRM Integration'],

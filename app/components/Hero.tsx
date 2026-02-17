@@ -36,17 +36,17 @@ export default function Hero() {
                             animate="visible">
                     <motion.h1 variants={itemVariants}
                                className="text-4xl md:text-6xl font-bold text-bg-main mb-6 tracking-tight leading-[1.1]">
-                        Creamos aplicaciones y sistemas empresariales a medida
+                        Somos el brazo tecnológico que potencia la comunicación con tus clientes.
                     </motion.h1>
                     <motion.p variants={itemVariants}
                         className="text-text-muted text-lg md:text-xl max-w-3xl mx-auto mb-12 leading-relaxed font-light" >
-                        Integramos pagos, CRM y procesos internos para que tu información esté organizada y tu negocio opere con mayor control y precisión absoluta.
+                        Implementamos Apps Móviles, IA aplicada a tus Bots y análisis de datos para que sepas exactamente qué necesitan tus usuarios.
                     </motion.p>
 
                     <motion.div variants={itemVariants}
                         className="flex flex-col sm:flex-row items-center justify-center gap-4" >
                         <a href="#contacto" className="bg-secondary hover:bg-accent text-bgMain px-8 py-4 rounded-lg text-lg font-semibold transition-colors w-full sm:w-auto inline-block text-center" >
-                            Agendar Consultoría Técnica
+                            Mándanos un mensaje 👉
                         </a>
                     </motion.div>
                 </motion.div>
