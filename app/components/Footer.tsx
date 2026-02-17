@@ -17,7 +17,7 @@ export default function Footer() {
                         <Image src={"/freedog_logo_white.png"} alt={"Freedog logo"} width={500} height={500} className="w-full h-full object-contain"/>
                     </div>
                     <p className="text-textMuted text-sm text-center max-w-md">
-                        Agencia boutique de arquitectura de software especializada en soluciones transaccionales y de alta disponibilidad.
+                        Brazo tecnológico especializado en Apps Móviles, IA conversacional y sistemas de datos para escalar la comunicación y operación de tu negocio.
                     </p>
                 </div>
 

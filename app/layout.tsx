@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://freedogstudios.com"),
-    title: "Freedog Studios | Desarrollo de Sistemas, Apps y Chatbots a medida",
-    description: "Organizamos la información de tu negocio. Expertos en sistemas a medida, chatbots de ventas y gestión de sucursales. Deja atrás el Excel y el Drive. ¡Cotiza!",
-    keywords: ["Fintech", "Integraciones de pago", "Stripe", "Clip", "Openpay", "WhatsApp Business", "IA", "Data Engineering", "AWS", "IoT", "MQTT", "Automatización"],
+    title: "Freedog Studios | Apps Móviles, IA para Bots y Estrategia de Datos",
+    description: "Desarrollamos Apps móviles, IA aplicada a tus Bots y sistemas de datos para escalar tu operación. ¡Transforma tu negocio hoy! Somos el brazo tecnológico que potencia la comunicación con tus clientes.",
+    keywords: ["Apps Móviles", "iOS", "Android", "IA aplicada", "Chatbots con IA", "Data Analytics", "Automatización de procesos", "Sincronización de datos", "Software a medida", "Integración de sistemas"],
     authors: [{ name: "Freedog Studios" }],
     creator: "Freedog Studios",
     publisher: "Freedog Studios",
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
         locale: "es_MX",
         url: "https://freedogstudios.com",
         siteName: "Freedog Studios",
-        title: "Freedog Studios | Desarrollo de Sistemas, Apps y Chatbots a medida",
-        description: "Organizamos la información de tu negocio. Expertos en sistemas a medida, chatbots de ventas y gestión de sucursales. Deja atrás el Excel y el Drive. ¡Cotiza!",
+        title: "Freedog Studios | Apps Móviles, IA para Bots y Estrategia de Datos",
+        description: "Desarrollamos Apps móviles, IA aplicada a tus Bots y sistemas de datos para escalar tu operación. ¡Transforma tu negocio hoy! Somos el brazo tecnológico que potencia la comunicación con tus clientes.",
         images: [
             {
                 url: "/og-image.png",
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Freedog Studios | Desarrollo de Sistemas, Apps y Chatbots a medida",
-        description: "Organizamos la información de tu negocio. Expertos en sistemas a medida, chatbots de ventas y gestión de sucursales. Deja atrás el Excel y el Drive. ¡Cotiza!",
+        title: "Freedog Studios | Apps Móviles, IA para Bots y Estrategia de Datos",
+        description: "Desarrollamos Apps móviles, IA aplicada a tus Bots y sistemas de datos para escalar tu operación. ¡Transforma tu negocio hoy! Somos el brazo tecnológico que potencia la comunicación con tus clientes.",
         images: ["/og-image.png"],
     },
     robots: {
